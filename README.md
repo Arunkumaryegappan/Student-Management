@@ -8,3 +8,4 @@ Add the new student data
 Technology used in Spring boot ,Thymeleaf,Mysql
 Dependicies are  thymeleaf, Spring Data JPA,Mysql,spring Dev tools
 spring web.
+Impl code on this path:studentcrud/src/main/java/com/example/crud
